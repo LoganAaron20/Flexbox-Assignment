@@ -1,0 +1,14 @@
+div {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+textarea {
+   border-width: 1px
+}
+
+button {
+  margin-left: ;
+  margin-top: 50px;
+}
